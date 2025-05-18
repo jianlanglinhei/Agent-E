@@ -1,0 +1,9 @@
+{
+  "name": "agent-e-js",
+  "version": "0.1.0",
+  "description": "JS examples for Agent-E",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.43.0"
+  }
+}
